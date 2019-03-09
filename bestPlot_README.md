@@ -1,0 +1,4 @@
+As simple as it may be, I found that a simple 2D scatter plot of the highest correlated features (as indicated by the greatest absolute r coefficient) with Y to be the best visualization plot.
+To obtain this information and whittle down the number of features, a correlation matrix was used. It displayed the features to the ones that were most likely to be able to best predict Y and made the data more manageable and enabled me to make the scatter plot that I thought was best and most helpful to my research question. Having each feature shown individually was the most helpful part of my best plot.
+One key point to plotting was ensuring the data were on the same scale. That is, SEX being nominal data did not add to meaningful visualization and had to be isolated.
+Only when interval data was used, meaningful visualization was possible.
