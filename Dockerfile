@@ -15,4 +15,4 @@ ENTRYPOINT ["python3", "plotting-hwk.py"]
 # in CMD, it can take in py script arguemnts and its best for this purpose. so syntax should be:
 # CMD ["py_arg1", "py_arg2", "py_arg_however_many_needed"]
 
-# any python script outputs (ie. plot .pngs) will be outputted to working directory on local machine
+# any python script outputs (ie. plot .pngs) will be outputted to working directory on local machine when Docker container is run via volume mounting
